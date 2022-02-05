@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielFernweh (Jared Jones)
+- 👋 Hi, I’m Jared Jones
 - 👀 I’m interested in ...stuff and things
 - 🌱 I’m currently learning ...things and stuff
 - 💞️ I’m looking to collaborate on ...Anything in my repository
