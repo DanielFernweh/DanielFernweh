@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jared Jones
 - 👀 I’m interested in ...stuff and things
-- 🌱 I’m currently learning ...things and stuff
+- 🌱 I’m currently learning ...iOS Development and Data Science
 - 💞️ I’m looking to collaborate on ...Anything in my repository
 - 📫 How to reach me ...jonesjar222@gmail.com
